@@ -7,6 +7,7 @@ Python codes that calculate Gauge Repeatability and Reproducibility GRR/GR&amp;R
 - Each folder in the directory represents an operator.
 - Inside each folder, there are Excel files that correspond to trials conducted by that operator.
 - Each cell in these Excel files represents a part of the trial conducted by the respective operator. 
+
 The names of the folders and files do not matter.
 
 
